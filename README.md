@@ -1,1 +1,2 @@
-# go-learn
+# Notes on Golang learning
+
